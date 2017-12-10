@@ -101,7 +101,7 @@
       <file leaf-file-name="category_edit.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/category_edit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
+            <state relative-caret-position="595">
               <caret line="35" column="69" lean-forward="true" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
               <folding>
                 <marker date="1512868638460" expanded="true" signature="555:659" ph="..." />
@@ -221,11 +221,11 @@
       <path value="" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="32" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="3" />
+    <option name="width" value="1036" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -338,12 +338,12 @@
       <workItem from="1512692568049" duration="9409000" />
       <workItem from="1512742842527" duration="13749000" />
       <workItem from="1512842227895" duration="4813000" />
-      <workItem from="1512857504186" duration="11551000" />
+      <workItem from="1512857504186" duration="12226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39522000" />
+    <option name="totallyTimeSpent" value="40197000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,15 +355,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="3" width="1036" height="773" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.510661" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8021739" sideWeight="0.49573562" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15724947" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12087912" sideWeight="0.49573562" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3022541" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.715994" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -772,7 +772,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/category_edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
+        <state relative-caret-position="595">
           <caret line="35" column="69" lean-forward="true" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
           <folding>
             <marker date="1512868638460" expanded="true" signature="555:659" ph="..." />
